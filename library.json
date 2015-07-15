@@ -12,8 +12,7 @@
     {"path": "scripts/shepherd.js"}
   ],
   "preloadedCss": [
-    {"path": "styles/shepherd-theme-arrows.css"},
-    {"path": "styles/shepherd-theme-default.css"}
+    {"path": "styles/shepherd-theme-arrows.css"}
   ],
   "preloadedDependencies": [
     {
