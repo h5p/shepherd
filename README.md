@@ -1,11 +1,11 @@
-Sheperd
+Shepherd
 ======
 
 Shepherd is a javascript library for guiding users through your app. It uses Tether, another open source library, to position all of its steps.
 
 ## Usage
 
-Sheperd is wrapped to be compatible with H5P. This means it is available using H5P.Sheperd.
+Shepherd is wrapped to be compatible with H5P. This means it is available using H5P.Shepherd.
 
 ## License
 
