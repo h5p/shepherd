@@ -7,6 +7,10 @@ Shepherd is a javascript library for guiding users through your app. It uses Tet
 
 Shepherd is wrapped to be compatible with H5P. This means it is available using H5P.Shepherd.
 
+## Changes
+
+Changes have been made. See the `update_css.patch` diff file.
+
 ## License
 
 Copyright (c) 2015 HubSpot, Inc.
