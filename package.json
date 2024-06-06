@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "clone_shepherd": "rm -rdf node_modules/shepherd && git clone git@github.com:shepherd-pro/shepherd.git --branch v1.1.1 node_modules/shepherd",
+    "build": "npm run clone_shepherd && webpack && rm dist/tether-shepherd.min.js.LICENSE.txt",
+    "webpack": "webpack && rm dist/tether-shepherd.min.js.LICENSE.txt"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^12.0.2",
+    "node-gyp": "^10.1.0",
+    "tether": "1.0.3",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
