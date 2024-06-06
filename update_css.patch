@@ -1,5 +1,5 @@
---- shepherd-theme-arrows.css	2024-06-06 18:58:21.147064616 +0200
-+++ new.css	2024-06-06 18:58:56.726913419 +0200
+--- shepherd-theme-arrows.css	2024-06-06 19:10:22.577246006 +0200
++++ new.css	2024-06-06 19:11:31.683604832 +0200
 @@ -145,7 +145,7 @@
        line-height: .8em;
        font-weight: normal;
@@ -22,5 +22,4 @@
 +            background: #f3f3f3;
 +            color: #666; }
          .shepherd-element.shepherd-theme-arrows .shepherd-content footer .shepherd-buttons li:last-child .shepherd-button {
--          margin-right: 0; }
-+          margin-right: 0; } 
+           margin-right: 0; }
