@@ -10,21 +10,24 @@
   "machineName": "Shepherd",
   "preloadedJs": [
     {
-      "path": "dist/tether.min.js"
+      "path": "scripts/tether.min.js"
     },
     {
-      "path": "dist/shepherd.min.js"
+      "path": "scripts/tether.js"
     },
     {
-      "path": "dist/tether-shepherd.min.js"
+      "path": "scripts/shepherd.min.js"
+    },
+    {
+      "path": "scripts/shepherd.js"
     }
   ],
   "preloadedCss": [
     {
-      "path": "dist/tether.min.css"
+      "path": "styles/tether.min.css"
     },
     {
-      "path": "dist/shepherd-theme-arrows.css"
+      "path": "styles/shepherd-theme-arrows.css"
     }
   ]
 }
