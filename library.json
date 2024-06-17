@@ -10,19 +10,24 @@
   "machineName": "Shepherd",
   "preloadedJs": [
     {
+      "path": "scripts/tether.min.js"
+    },
+    {
+      "path": "scripts/tether.js"
+    },
+    {
+      "path": "scripts/shepherd.min.js"
+    },
+    {
       "path": "scripts/shepherd.js"
     }
   ],
   "preloadedCss": [
     {
-      "path": "styles/shepherd-theme-arrows.css"
-    }
-  ],
-  "preloadedDependencies": [
+      "path": "styles/tether.min.css"
+    },
     {
-      "machineName": "Tether",
-      "majorVersion": 1,
-      "minorVersion": 0
+      "path": "styles/shepherd-theme-arrows.css"
     }
   ]
 }

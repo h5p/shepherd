@@ -6,6 +6,17 @@ Shepherd is a javascript library for guiding users through your app. It uses Tet
 ## Usage
 
 Shepherd is wrapped to be compatible with H5P. This means it is available using H5P.Shepherd.
+```
+npm install
+npm run build
+```
+Run in git bash on Windows.
+
+## Changes
+
+Changes have been made. See the `update_css.patch` diff file.  
+Build flow applies patch automatically provided that `patch` command is available.  
+`shepherd` v1.1.1 dependency cloned as git repository because it requires deprecated python 2. (build fails on python 3)
 
 ## License
 
